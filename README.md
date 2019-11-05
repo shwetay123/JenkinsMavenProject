@@ -1,0 +1,2 @@
+# JenkinsMavenProject
+Jenkins with maven
